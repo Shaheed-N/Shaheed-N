@@ -1,8 +1,7 @@
 ![apple-developer-og-twitter (1)](https://user-images.githubusercontent.com/103990532/189700467-9f7a2d5d-2aa2-4b1d-a08c-01906df6862b.png)
 <h1 align="center">Hi 👋, I'm Shaheed Nasirov</h1>
-
-
 <h3 align="center">IOS developer</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 - 📫 How to reach me **shaheednesirov@gmail.com**
 
