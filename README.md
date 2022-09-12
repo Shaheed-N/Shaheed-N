@@ -1,4 +1,4 @@
-![apple-developer-og-twitter (1)](https://user-images.githubusercontent.com/103990532/189700467-9f7a2d5d-2aa2-4b1d-a08c-01906df6862b.png)
+![189700467-9f7a2d5d-2aa2-4b1d-a08c-01906df6862b (1)](https://user-images.githubusercontent.com/103990532/189705559-4b84bcf0-5291-4915-990f-08c86e3e8837.jpg)
 <h1 align="center">Hi 👋, I'm Shaheed Nasirov</h1>
 <h3 align="center">IOS developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
