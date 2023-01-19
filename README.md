@@ -18,4 +18,5 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/>
 </a>
-![Python-logo-notext svg-removebg-preview](https://user-images.githubusercontent.com/103990532/213418302-fe9bfd1a-9592-41f8-9542-a791095cedb5.png)
+<a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103990532/213418302-fe9bfd1a-9592-41f8-9542-a791095cedb5.png" alt="realm" width="40" height="40"/>
+</a>
