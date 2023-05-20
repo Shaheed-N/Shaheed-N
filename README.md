@@ -10,7 +10,6 @@
   <a href="https://discord.gg/Shaheed#0656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shaheed#0656" height="30" width="40" /></a>
   
 <a href="https://twitter.com/nesirovshaheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nesirovshaheed" height="30" width="40" /></a>
-![Без названия (9)](https://github.com/Shaheed-N/Shaheed-N/assets/103990532/edcf9e39-bcf3-4fbd-a737-0f2f2d605faa)
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
