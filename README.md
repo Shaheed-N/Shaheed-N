@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaheed Nasirov</h1>
 <h3 align="center">Full-stack Software Developer</h3>
 
-I’m a full-stack software developer building scalable web applications from idea to production. I develop SaaS platforms, AI-powered web apps, multi-user systems, document management apps, data analytics systems, and other custom web solutions. I can add AI features when needed, including generative AI, multi-agent workflows and computer vision. Clean UI, secure backend and cloud deployment included. Skilled in React, NextJS, Node, FastAPI and Python. Let’s build a powerful, production-ready web app together.
+I’m a full-stack software developer building scalable web applications from idea to production. I develop SaaS platforms, AI-powered web apps, mobile apps multi-user systems, data analytics systems, and other custom web solutions. I can add AI features when needed, including generative AI, multi-agent workflows and computer vision. Clean UI, secure backend and cloud deployment included. Skilled in React, NextJS, Node, FastAPI and Python. Let’s build a powerful, production-ready web app together.
 
 📫 How to reach me **shaheednesirov@gmail.com**
 
