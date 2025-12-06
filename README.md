@@ -9,11 +9,31 @@
 <h2 align="center">⚡ What I Build</h2>
 
 <p align="center">
-🚀 <strong>SaaS Platforms</strong> that scale from MVP to enterprise<br/>
-🤖 <strong>AI-Powered Applications</strong> with generative AI, multi-agent workflows & computer vision<br/>
-📱 <strong>Cross-Platform Mobile Apps</strong> for iOS & Android<br/>
-📊 <strong>Data Analytics Systems</strong> that turn data into actionable insights<br/>
-🎨 <strong>Beautiful UIs</strong> + Secure Backends + Cloud Deployment = Complete Solutions
+<img src="https://img.shields.io/badge/SaaS_Platforms-FF6B6B?style=for-the-badge&logo=stripe&logoColor=white" alt="SaaS"/>
+<img src="https://img.shields.io/badge/AI_Powered_Apps-4ECDC4?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+<img src="https://img.shields.io/badge/Mobile_Apps-95E1D3?style=for-the-badge&logo=react&logoColor=white" alt="Mobile"/>
+<img src="https://img.shields.io/badge/Real_Time_Systems-F38181?style=for-the-badge&logo=socket.io&logoColor=white" alt="Real-time"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/E_Commerce-FFD93D?style=for-the-badge&logo=shopify&logoColor=black" alt="E-commerce"/>
+<img src="https://img.shields.io/badge/Gamification-6BCB77?style=for-the-badge&logo=unity&logoColor=white" alt="Gamification"/>
+<img src="https://img.shields.io/badge/Booking_Systems-4D96FF?style=for-the-badge&logo=calendar&logoColor=white" alt="Booking"/>
+<img src="https://img.shields.io/badge/CRM_Systems-FF6B9D?style=for-the-badge&logo=salesforce&logoColor=white" alt="CRM"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Payment_Integration-00B4D8?style=for-the-badge&logo=stripe&logoColor=white" alt="Payments"/>
+<img src="https://img.shields.io/badge/Admin_Dashboards-9B59B6?style=for-the-badge&logo=grafana&logoColor=white" alt="Dashboards"/>
+<img src="https://img.shields.io/badge/API_Development-48CAE4?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs"/>
+<img src="https://img.shields.io/badge/Data_Visualization-E76F51?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Viz"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Social_Platforms-C77DFF?style=for-the-badge&logo=discord&logoColor=white" alt="Social"/>
+<img src="https://img.shields.io/badge/Authentication-2A9D8F?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth"/>
+<img src="https://img.shields.io/badge/File_Management-F4A261?style=for-the-badge&logo=dropbox&logoColor=white" alt="Files"/>
+<img src="https://img.shields.io/badge/Automation-E63946?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation"/>
 </p>
 
 <p align="center">
